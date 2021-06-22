@@ -5,9 +5,7 @@
 
 # projects
 
-pareset
-
-1. To do
+to do pareset
 
 첫번째 섹션(issue 관련)
 
@@ -20,4 +18,11 @@ pareset
             
 2. Reopened : close 된 이슈가 이 프로젝트에서 reopen되었을 시, 자동으로 to do 쪽으로 옮겨지게 되는 설정.
             
-            issue가 clsoe 된 상태에서 reopen isuue를 하면 done에 있던 issue가 to do 쪽으로 옮겨짐          
+            issue가 clsoe 된 상태에서 reopen isuue를 하면 done에 있던 issue가 to do 쪽으로 옮겨짐   
+
+
+두번째 섹션(pr)관련
+
+![image](https://user-images.githubusercontent.com/83216197/122854084-27963f80-d34e-11eb-8b75-9b5ae1f1c5e8.png)
+
+1. newly added : 이 프로젝트에 추가된 pull request가 생성되면, 자동으로 to do에 추가하는 설정
