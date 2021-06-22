@@ -18,4 +18,6 @@ pareset
 
             issue를 만들면 자동으로 project에 추가
             
-2. Reopened : close 된 이슈가 이 프로젝트에서 reopen되었을 시, 자동으로 to do 쪽으로 옮겨지게 되는  
+2. Reopened : close 된 이슈가 이 프로젝트에서 reopen되었을 시, 자동으로 to do 쪽으로 옮겨지게 되는 설정.
+            
+            issue가 clsoe 된 상태에서 reopen isuue를 하면 done에 있던 issue가 to do 쪽으로 옮겨짐          
