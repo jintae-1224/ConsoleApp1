@@ -26,3 +26,8 @@ to do pareset
 ![image](https://user-images.githubusercontent.com/83216197/122854084-27963f80-d34e-11eb-8b75-9b5ae1f1c5e8.png)
 
 1. newly added : 이 프로젝트에 추가된 pull request가 생성되면, 자동으로 to do에 추가하는 설정
+
+![image](https://user-images.githubusercontent.com/83216197/122856772-57dfdd00-d352-11eb-943c-07b18d22d649.png)
+
+to do에 
+
