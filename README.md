@@ -69,6 +69,7 @@
 
 1. merged : pr이 merge되면 자동으로 Done으로 옮겨주는 설정
 
-2. closed with unmerged commits : pr이 merge되지 않은 채 닫히면 자동으로 Done으로 옮겨주는 
+2. closed with unmerged commits : pr이 merge되지 않은 채 닫히면 자동으로 Done으로 옮겨주는 설정
+
 
 
