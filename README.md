@@ -43,7 +43,7 @@
 1. reopened : to do의 reopend 설정이랑 같음.
 
 
-두번째 섹션(pr)관련
+두번째 섹션(pr관련)
 
 ![image](https://user-images.githubusercontent.com/83216197/122861843-1a338200-d35b-11eb-84d3-36f98c2cac0a.png)
 
@@ -54,6 +54,21 @@
 3. pending approval by reviewer : 리뷰어가 request changes를 하거나, 필요한 최소 승인 수를 충족하지 못할 때 자동으로 이 column 으로 이동.
 
 
+## preset : Done
 
+첫번째 섹션(issue 관련)
+
+![image](https://user-images.githubusercontent.com/83216197/122862300-e016b000-d35b-11eb-9be6-e2c03a217c04.png)
+
+1. closed : 프로젝트에 추가된 이슈가 close되면 자동으로 done으로 옮겨질지 결정하는 설정
+
+
+두번째 섹션(pr관련)
+
+![image](https://user-images.githubusercontent.com/83216197/122862455-210ec480-d35c-11eb-808c-edde874910c2.png)
+
+1. merged : pr이 merge되면 자동으로 Done으로 옮겨주는 설정
+
+2. closed with unmerged commits : pr이 merge되지 않은 채 닫히면 자동으로 Done으로 옮겨주는 
 
 
