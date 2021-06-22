@@ -5,7 +5,7 @@
 
 # projects
 
-to do pareset
+## parset to do
 
 첫번째 섹션(issue 관련)
 
@@ -31,5 +31,29 @@ to do pareset
 
             to do에 추가됨
 
-2. reopend : 이 프로젝트에 추가되었고, close된 pr
+2. reopend : 이 프로젝트에 추가되었고, close된 pr이 다시 열리면 to do에 추가하겠다는 설정
+
+
+## preset : In progress
+
+첫번째 섹션(issue 관련)
+
+![image](https://user-images.githubusercontent.com/83216197/122861752-e9ebe380-d35a-11eb-959e-890908f3837d.png)
+
+1. reopened : to do의 reopend 설정이랑 같음.
+
+
+두번째 섹션(pr)관련
+
+![image](https://user-images.githubusercontent.com/83216197/122861843-1a338200-d35b-11eb-84d3-36f98c2cac0a.png)
+
+1. newly added, reopened : to do와 같음.
+
+2. approved by reviewer : pr이 최소 필수 approving review를 받으면 자동으로 이 column으로 이동(pending approval by reviewer가 솰성화 된 경우 권장)
+
+3. pending approval by reviewer : 리뷰어가 request changes를 하거나, 필요한 최소 승인 수를 충족하지 못할 때 자동으로 이 column 으로 이동.
+
+
+
+
 
